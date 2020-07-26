@@ -11,7 +11,7 @@ mapbox_access_token = cfg['mysql']['key]
 ###-----------------------------------------------------------------------------------------###
 ###-----------------------------------------------------------------------------------------###
 
-mapbox_access_token = 'pk.eyJ1IjoiZnV6enlsb2dpYzEzIiwiYSI6ImNrY2xjOGR5NTF4eWcycm5xYjY5eXA5ejUifQ.o3nz27PTtPI5JxztLiw_Tw'
+mapbox_access_token = 'pk goes here'
 
 from ppp_helper_functions import NAICS_SECTOR_LIST
 import pandas as pd 
